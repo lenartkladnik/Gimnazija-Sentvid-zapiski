@@ -21,7 +21,6 @@ Zapiski za 1. in 2. letnik Gimnazije Šentvid.
 - ANG (Polona Cimerman)
 - ŠPA (David Heredero Zorzo)
 - MAT (Jaka Erker)
-- INF (Matjaž Vuherer)
 - FIZ (Manja Finžgar)
 - KEM (Vesna Pahor)
 - BIO (Mihael Tratnik)
